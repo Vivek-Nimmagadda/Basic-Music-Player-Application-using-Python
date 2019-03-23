@@ -1,0 +1,1 @@
+Are you interested in making a basic yet powerful music player application using python and tkinter! Then please glance through the pdf file above which has a detailed explanation about creating one on your own.
